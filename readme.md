@@ -19,6 +19,8 @@ Copy Pen is a simple Chrome extension designed to help you take notes while brow
 4. Click on "Load unpacked" and select the downloaded extension folder.
 5. The Copy Pen extension will be added to your Chrome browser.
 
+[![example](https://i.postimg.cc/5ywx8xDw/Screenshot-2024-04-06-213236.png)](https://postimg.cc/8fzQSVp5)
+
 ## Usage
 
 1. Click on the Copy Pen extension icon in the Chrome toolbar.
